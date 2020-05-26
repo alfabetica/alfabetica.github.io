@@ -6,9 +6,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/img/icon.ico">
-
-		<!-- CSS here -->
+	<link rel="shortcut icon" type="image/x-icon" href="assets/img/icon.ico">
+	<!-- CSS here -->
             <link rel="stylesheet" href="assets/css/bootstrap.min.css">
             <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
             <link rel="stylesheet" href="assets/css/flaticon.css">
@@ -21,10 +20,9 @@
             <link rel="stylesheet" href="assets/css/slick.css">
             <link rel="stylesheet" href="assets/css/nice-select.css">
             <link rel="stylesheet" href="assets/css/style.css">
-   </head>
-   
-   <body>
-	<style> h1 a { display: none; }</style>
+	    <style> h1 { display: none; } </style>
+   </head>   
+   <body>	
     <!-- Preloader Start -->
     <div id="preloader-active">
         <div class="preloader d-flex align-items-center justify-content-center">
@@ -98,7 +96,7 @@
                         <div class="row">
                             <div class="col-xl-6 col-lg-9 col-md-10">
                                 <div class="hero__caption">
-                                    <h1>Busque seu emprego dos sonhos!</h1>
+                                    <h2>Busque seu emprego dos sonhos!</h2>
                                 </div>
                             </div>
                         </div>
