@@ -503,7 +503,10 @@
             </div>
         </div>
         <!-- Support Company End-->
-        <br/>
+        <div class="home-blog-area blog-h-padding">
+            <div class="container">
+	    </div>
+	</div>
     </main>
     <footer>
         <!-- Footer Start-->
