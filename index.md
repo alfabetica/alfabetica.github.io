@@ -54,14 +54,14 @@
                                     <nav class="d-none d-lg-block">
                                         <ul id="navigation">
                                             <li><a href="index.html">Início</a></li>
-                                            <li><a href="job_listing.html">Vagas </a></li>
+                                            <li><a href="job_listing.html">Vagas</a></li>
                                             <li><a href="about.html">Sobre</a></li>
                                             <li><a href="#">Cursos</a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">Informática</a></li>
-                                                    <li><a href="single-blog.html">Adminsitração</a></li>
-                                                    <li><a href="elements.html">Marketing</a></li>
-                                                    <li><a href="job_details.html">Outras Áreas</a></li>
+                                                    <li><a href="cursos.html">Informática</a></li>
+                                                    <li><a href="cursos.html">Adminsitração</a></li>
+                                                    <li><a href="cursos.html">Marketing</a></li>
+                                                    <li><a href="cursos.html">Outras Áreas</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="contact.html">Contato</a></li>
@@ -377,8 +377,8 @@
                                 <span class="flaticon-search"></span>
                             </div>
                             <div class="process-cap">
-                               <h5>1. Procure por uma vaga</h5>
-                               <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+                               <h5>1. Cadastre suas habilidades</h5>
+                               <p>Registre no site as habilidades que você ja possui, assim teremos uma lista de vagas personalizada para seu perfil.</p>
                             </div>
                         </div>
                     </div>
@@ -388,8 +388,8 @@
                                 <span class="flaticon-curriculum-vitae"></span>
                             </div>
                             <div class="process-cap">
-                               <h5>2. Se candidate e faça nossos cursos!</h5>
-                               <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+                               <h5>2. Aprenda</h5>
+                               <p>Além das vagas em aberto, vamos oferecer cursos para seu desenvolvimento. Estude e consiga acesso a mais e mais vagas. (Ps: É gratuito!)</p>
                             </div>
                         </div>
                     </div>
@@ -399,8 +399,8 @@
                                 <span class="flaticon-tour"></span>
                             </div>
                             <div class="process-cap">
-                               <h5>3. Consiga seu emprego!!</h5>
-                               <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+                               <h5>3. Conquiste sua vaga! </h5>
+                               <p>Escolha entre as vagas selecionadas pra você e se inscreva! Vamos te ajudar a conquistar esse emprego!</p>
                             </div>
                         </div>
                     </div>
@@ -422,13 +422,13 @@
                                     <!-- founder -->
                                     <div class="testimonial-founder  ">
                                         <div class="founder-img mb-30">
-                                            <img src="assets/img/testmonial/testimonial-founder.png" alt="">
-                                            <span>Margaret Lawson</span>
-                                            <p>Diretor de Criação</p>
+                                            <img src="assets/img/testmonial/test1.jpeg" alt="">
+                                            <span>João Felipe</span>
+                                            <p>Técnico de Informática</p>
                                         </div>
                                     </div>
                                     <div class="testimonial-top-cap">
-                                        <p>“I am at an age where I just want to be fit and healthy our bodies are our responsibility! So start caring for your body and it will care for you. Eat clean it will care for you and workout hard.”</p>
+                                        <p>“Os cursos online do Alfabetica tem me ajudado muito a desenvolver minhas habilidades, me sinto um profissional melhor a cada dia.”</p>
                                     </div>
                                 </div>
                             </div>
@@ -440,12 +440,12 @@
                                     <div class="testimonial-founder  ">
                                         <div class="founder-img mb-30">
                                             <img src="assets/img/testmonial/testimonial-founder.png" alt="">
-                                            <span>Margaret Lawson</span>
-                                            <p>Creative Director</p>
+                                            <span>Bruno Silva</span>
+                                            <p>Estudante de direito</p>
                                         </div>
                                     </div>
                                     <div class="testimonial-top-cap">
-                                        <p>“I am at an age where I just want to be fit and healthy our bodies are our responsibility! So start caring for your body and it will care for you. Eat clean it will care for you and workout hard.”</p>
+                                        <p>“O Alfabetica tem me ajudado a conquistar meu espaço no mercado de trabalho!”</p>
                                     </div>
                                 </div>
                             </div>
@@ -456,13 +456,13 @@
                                     <!-- founder -->
                                     <div class="testimonial-founder  ">
                                         <div class="founder-img mb-30">
-                                            <img src="assets/img/testmonial/testimonial-founder.png" alt="">
-                                            <span>Margaret Lawson</span>
-                                            <p>Creative Director</p>
+                                            img src="assets/img/testmonial/1.png" alt="">
+                                            <span>Joana Alves</span>
+                                            <p>Desginer</p>
                                         </div>
                                     </div>
                                     <div class="testimonial-top-cap">
-                                        <p>“I am at an age where I just want to be fit and healthy our bodies are our responsibility! So start caring for your body and it will care for you. Eat clean it will care for you and workout hard.”</p>
+                                        <p>“Estou tendo a oportunidade de mostrar meu trabalho e ainda aprender coisas novas, isso tem sido incrível.”</p>
                                     </div>
                                 </div>
                             </div>
@@ -481,12 +481,12 @@
                             <!-- Section Tittle -->
                             <div class="section-tittle section-tittle2">
                                 <span>O que estamos fazendo</span>
-                                <h2>Capacitando cada vez mais jovens!</h2>
+                                <h2>Levando emprego e educação para a periferia</h2>
                             </div>
                             <div class="support-caption">
-                                <p class="pera-top">Mollit anim laborum duis au dolor in voluptate velit ess cillum dolore eu lore dsu quality mollit anim laborumuis au dolor in voluptate velit cillum.</p>
-                                <p>Mollit anim laborum.Duis aute irufg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur signjnt occa cupidatat non inulpadeserunt mollit aboru. temnthp incididbnt ut labore mollit anim laborum suis aute.</p>
-                                <a href="about.html" class="btn post-btn">Publique uma vaga</a>
+                                <p class="pera-top">Queremos te ajudar a conseguir o emprego desejado e a se desenvolver profissionalmente</p>
+                                <p>O Alfabetica não é só uma agência de empregos, é um local de aprendizado, um ambiente de crescimento! Queremos te ajudar alcançar seus sonhos!</p>
+                                <a href="about.html" class="btn post-btn">Inscreva-se</a>
                             </div>
                         </div>
                     </div>
@@ -502,11 +502,63 @@
                 </div>
             </div>
         </div>
+	
         <!-- Support Company End-->
+        <!-- Blog Area Start -->
         <div class="home-blog-area blog-h-padding">
             <div class="container">
-	    </div>
-	</div>
+                <!-- Section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle text-center">
+                            <span>Que tal aprender algo novo? </span>
+                            <h2>Conheça nossos cursos!</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-6">
+                        <div class="home-blog-single mb-30">
+                            <div class="blog-img-cap">
+                                <div class="blog-img">
+                                    <img src="assets/img/blog/home-blog1.jpg" alt="">
+                                    <!-- Blog date -->
+                                    <div class="blog-date text-center">
+                                        <span>24</span>
+                                        <p>Disponível</p>
+                                    </div>
+                                </div>
+                                <div class="blog-cap">
+                                    <p> Pacote Office</p>
+                                    <h3><a href="cursos.html">Excel do básico ao avançado</a></h3>
+                                    <a href="#" class="more-btn">Veja mais »</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6">
+                        <div class="home-blog-single mb-30">
+                            <div class="blog-img-cap">
+                                <div class="blog-img">
+                                    <img src="assets/img/blog/home-blog2.jpg" alt="">
+                                    <!-- Blog date -->
+                                    <div class="blog-date text-center">
+                                        <span>24</span>
+                                        <p>Disponível</p>
+                                    </div>
+                                </div>
+                                <div class="blog-cap">
+                                    <p>Design</p>
+                                    <h3><a href="cursos.html">Técnico em desgin gráfico</a></h3>
+                                    <a href="#" class="more-btn">Veja mais»</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Blog Area End -->
     </main>
     <footer>
         <!-- Footer Start-->
