@@ -422,7 +422,7 @@
                                     <!-- founder -->
                                     <div class="testimonial-founder  ">
                                         <div class="founder-img mb-30">
-                                            <img src="assets/img/testmonial/test1.jpeg" alt="">
+                                            <img src="assets/img/testmonial/test1.png" alt="">
                                             <span>João Felipe</span>
                                             <p>Técnico de Informática</p>
                                         </div>
@@ -456,7 +456,7 @@
                                     <!-- founder -->
                                     <div class="testimonial-founder  ">
                                         <div class="founder-img mb-30">
-                                            img src="assets/img/testmonial/1.png" alt="">
+                                            <img src="assets/img/testmonial/1.png" alt="">
                                             <span>Joana Alves</span>
                                             <p>Desginer</p>
                                         </div>
