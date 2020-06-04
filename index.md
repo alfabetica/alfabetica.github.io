@@ -64,6 +64,7 @@
                                                     <li><a href="cursos.html">Outras Áreas</a></li>
                                                 </ul>
                                             </li>
+					    <li><a href="contact.html">Contato</a></li>
                                         </ul>
                                     </nav>
                                 </div>          
